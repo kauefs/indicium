@@ -1,6 +1,6 @@
 ***
 
-# Indicium
+# indicium
 
 ## LightHouse
 <!--
