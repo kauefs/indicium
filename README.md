@@ -1,5 +1,12 @@
 ***
 <div align=center>
+
+![2025.09.03  ](https://img.shields.io/badge/2025.09.03-000000)
+
+[![GitHub     ](https://img.shields.io/badge/-000000?logo=github&logoColor=FFFFFF)](https://github.com/kauefs/)
+[![Medium     ](https://img.shields.io/badge/-000000?logo=medium&logoColor=FFFFFF)](https://medium.com/@kauefs)
+[![LinkedIn   ](https://img.shields.io/badge/in-0077B5?logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/kauefs/)
+
 <a    href=https://materiais.indicium.ai/lighthouse_inscricao_turma-09_2025 target=_blank rel=noreferrer>
 <img   src=https://d335luupugsy2.cloudfront.net/cms/files/212294/1754657899/$87ymsgkrln width=50%/></a>
 </div>
