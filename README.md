@@ -1,7 +1,31 @@
-# indicium
-LightHouse
+***
+
+# Indicium
+
+## LightHouse
 <!--
-**Situação:** análise de banco de dados cinematográfico para orientar qual tipo de filme deve ser o próximo a ser desenvolvido, lembrando que há muito dinheiro envolvido, portanto a análise deve ser detalhada, levando em consideração o máximo de fatores possíveis.
+Programa LightHouse de Formação em Dados e IA para profissionais em início ou em transição de carreira para a área de dados e IA, com projetos reais e desafiadores, aplicando conhecimentos na prática com suporte e mentoria de especialistas, mergulhando em tecnologias e metodologias de ponta para entender demandas de mercado.
+
+### About the Company
+
+**Indicium:** empresa global de serviços de dados, oferecendo soluções de ponta a ponta para todos os desafios da jornada data-driven, desde a estratégia à execução. Com sede em Nova York, São Paulo e Florianópolis, mais de 7 anos de experiência em metodologias modernas de dados e equipe de mais de 300 especialistas certificados, oferecendo serviços de alta qualidade, agnósticos e personalizados, atendendo aos mais altos padrões da indústria, encorajando busca contínua por novas e melhores ferramentas, e desenvolvendo as próprias, quando necessário.
+
+**Missão:** ajudar clientes a modernizar e a escalar seus negócios para futuro data-driven.
+
+**Visão:** ser o parceiro de dados moderno nº 1 para empresas nas Américas, reconhecido por oferecer qualidade incomparável e alto impacto mensurável para clientes.
+
+**Valores:**
+1. Qualidade:     criação de soluções de qualidade para resultados de alto valor.
+2. Flexibilidade: adaptação a novos desafios e circunstâncias.
+3. Colaboração:   colaboração por natureza
+4. Transparência: gestão ética e transparente.
+5. Conhecimento:  gosto por aprender e por ensinar.
+
+***
+
+## Desafio Cientista de Dados
+
+**Situação:** análise de banco de dados cinematográfico para orientar estúdio de produção cinematográfico sobre o próximo tipo de filme a ser desenvolvido, com análise detalhada, levando em consideração o máximo de fatores possíveis, uma vez que há muito dinheiro envolvido.
 
 **Objetivo:** resolução de problemas de negócios, análise de dados e aplicação de modelos preditivos.
 
