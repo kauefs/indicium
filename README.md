@@ -1,10 +1,14 @@
 ***
+<div align=center>
+<a    href=https://materiais.indicium.ai/lighthouse_inscricao_turma-09_2025 target=_blank rel=noreferrer>
+<img   src=https://d335luupugsy2.cloudfront.net/cms/files/212294/1754657899/$87ymsgkrln width=50%/></a>
+</div>
 
 # indicium
 
-## LightHouse
-<!--
-Programa LightHouse de Formação em Dados e IA para profissionais em início ou em transição de carreira para a área de dados e IA, com projetos reais e desafiadores, aplicando conhecimentos na prática com suporte e mentoria de especialistas, mergulhando em tecnologias e metodologias de ponta para entender demandas de mercado.
+## Lighthouse
+
+Programa Lighthouse de Formação em Dados e IA para profissionais em início ou em transição de carreira para a área de dados e IA, com projetos reais e desafiadores, aplicando conhecimentos na prática com suporte e mentoria de especialistas, mergulhando em tecnologias e metodologias de ponta para entender demandas de mercado.
 
 ### About the Company
 
@@ -59,6 +63,7 @@ Programa LightHouse de Formação em Dados e IA para profissionais em início ou
    - requirements.txt
    - notebook.ipynb
    - model.pkl
+   - database.csv
 
 **Dicionário dos Dados**
 
@@ -72,9 +77,9 @@ A base de dados de treinamento contém 15 colunas cujos nomes, embora auto-expli
 * Overview: overview do filme
 * Meta_score: média ponderada de todas as críticas 
 * Director: diretor
-* Star1: ator/Atriz #1
-* Star2: ator/Atriz #2
-* Star3: ator/Atriz #3
-* Star4: ator/Atriz #4
+* Star1: ator/atriz #1
+* Star2: ator/atriz #2
+* Star3: ator/atriz #3
+* Star4: ator/atriz #4
 * No_of_Votes: número de votos
 * Gross: faturamento
