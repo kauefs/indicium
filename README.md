@@ -93,6 +93,22 @@ A base de dados de treinamento contém 15 colunas cujos nomes, embora auto-expli
 
 ---
 
-### Projeto
+## Projeto
 
-Projeto desenvolvido em Jupyter Notebook via plataforma Google Colab, podendo ser acessado diretamente pelo link: https://github.com/kauefs/indicium/blob/main/LH_DS_NOTEBOOK.ipynb
+$$Projeto\ desenvolvido\ em\ Jupyter\ Notebook\ via\ plataforma\ Google\ Colab$$
+
+<div align=center>
+    
+<a href=https://github.com/kauefs/indicium/blob/main/LH_DS_NOTEBOOK.ipynb target=_blanck><img src=https://colab.research.google.com/assets/colab-badge.svg alt=Open In Colab></a>
+
+</div>
+
+<br><br>
+
+---
+
+<div align=center>
+
+[![ƊⱭȾɅViƧi🧿Ƞ](https://img.shields.io/badge/ƊⱭȾɅViƧi&#x1F9FF;Ƞ&trade;-0065FF?style=plastic&label=&copy;2025&labelColor=0065FF)](https://datavision.one/)
+
+</div>
