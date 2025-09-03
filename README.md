@@ -95,7 +95,9 @@ A base de dados de treinamento contém 15 colunas cujos nomes, embora auto-expli
 
 ## Projeto $PProductions$
 
-$$Projeto\ desenvolvido\ em\ Jupyter\ Notebook\ via\ plataforma\ Google\ Colab$$
+Análise de dados para construção de modelo preditivo de machine learning para auxiliar estúdio de Hollywood a melhor selecionar projeto para desenvolvimento do próximo lançamento cinematográfico de sucesso.
+
+$$Desenvolvido\ em\ Jupyter\ Notebook\ via\ plataforma\ Google\ Colab$$
 
 <div align=center>
     
