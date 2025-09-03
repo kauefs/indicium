@@ -90,3 +90,9 @@ A base de dados de treinamento contém 15 colunas cujos nomes, embora auto-expli
 * Star4: ator/atriz #4
 * No_of_Votes: número de votos
 * Gross: faturamento
+
+---
+
+### Projeto
+
+Projeto desenvolvido em Jupyter Notebook via plataforma Google Colab, podendo ser acessado diretamente pelo link: https://github.com/kauefs/indicium/blob/main/LH_DS_NOTEBOOK.ipynb
