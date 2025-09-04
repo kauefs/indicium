@@ -36,7 +36,7 @@ Programa Lighthouse de Formação em Dados e IA para profissionais em início ou
 
 ## Desafio Cientista de Dados
 
-**Situação:** análise de banco de dados cinematográfico para orientar estúdio de produção cinematográfico sobre o próximo tipo de filme a ser desenvolvido, com análise detalhada, levando em consideração o máximo de fatores possíveis, uma vez que há muito dinheiro envolvido.
+**Situação:** análise de banco de dados cinematográfico para orientar estúdio de Hollywood sobre o próximo tipo de filme a ser desenvolvido, com análise detalhada, levando em consideração o máximo de fatores possíveis, uma vez que há muito dinheiro envolvido.
 
 **Objetivo:** resolução de problemas de negócios, análise de dados e aplicação de modelos preditivos.
 
@@ -49,20 +49,20 @@ Programa Lighthouse de Formação em Dados e IA para profissionais em início ou
 3. Modelagem de Nota do IMDb: variáveis e transformações, problema de classificação ou de regressão, melhor modelo, prós e contras e razão da escolha da medida de performance do modelo.
 4. Previsão  de Nota do IMDb para o seguinte filme:
 
-        {'Series_Title':'The Shawshank Redemption',
+        {'Series_Title' :'The Shawshank Redemption',
          'Released_Year':'1994',
-         'Certificate':'A',
-         'Runtime':'142 min',
-         'Genre':'Drama',
-         'Overview':'Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.',
-         'Meta_score':80.0,
-         'Director':'Frank Darabont',
-         'Star1':'Tim Robbins',
-         'Star2':'Morgan Freeman',
-         'Star3':'Bob Gunton',
-         'Star4':'William Sadler',
-         'No_of_Votes':2343110,
-         'Gross':'28,341,469'}
+         'Certificate'  :'A',
+         'Runtime'      :'142 min',
+         'Genre'        :'Drama',
+         'Overview'     :'Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.',
+         'Meta_score'   : 80.0,
+         'Director'     :'Frank Darabont',
+         'Star1'        :'Tim Robbins',
+         'Star2'        :'Morgan Freeman',
+         'Star3'        :'Bob Gunton',
+         'Star4'        :'William Sadler',
+         'No_of_Votes'  : 2343110,
+         'Gross'        :'28,341,469'}
 
 5. Modelo salvo em formato .pkl
 6. Repositório de código público:
@@ -75,21 +75,21 @@ Programa Lighthouse de Formação em Dados e IA para profissionais em início ou
 **Dicionário dos Dados**
 
 A base de dados de treinamento contém 15 colunas cujos nomes, embora auto-explicativos, são descritos a seguir:
-* Series_Title: nome do filme
+* Series_Title : nome do filme
 * Released_Year: ano de lançamento
-* Certificate: classificação etária
-* Runtime: tempo de duração
-* Genre: gênero
-* IMDB_Rating: nota do IMDb
-* Overview: overview do filme
-* Meta_score: média ponderada de todas as críticas 
-* Director: diretor
-* Star1: ator/atriz #1
-* Star2: ator/atriz #2
-* Star3: ator/atriz #3
-* Star4: ator/atriz #4
-* No_of_Votes: número de votos
-* Gross: faturamento
+* Certificate  : classificação etária
+* Runtime      : tempo de duração
+* Genre        : gênero
+* IMDB_Rating  : nota do IMDb
+* Overview     : overview do filme
+* Meta_score   : média ponderada de todas as críticas 
+* Director     : diretor
+* Star1        : ator/atriz #1
+* Star2        : ator/atriz #2
+* Star3        : ator/atriz #3
+* Star4        : ator/atriz #4
+* No_of_Votes  : número de votos
+* Gross        : faturamento
 
 ---
 
