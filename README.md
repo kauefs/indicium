@@ -81,7 +81,7 @@ A base de dados de treinamento contém 15 colunas cujos nomes, embora auto-expli
 * Runtime:       tempo de duração
 * Genre:         gênero
 * IMDB_Rating:   nota do IMDb
-* Overview:      overview do filme
+* Overview:      *overview* do filme
 * Meta_score:    média ponderada de todas as críticas 
 * Director:      diretor
 * Star1:         ator/atriz #1
