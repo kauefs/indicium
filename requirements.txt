@@ -1,1 +1,13 @@
-…
+numpy==1.26.4
+pandas==2.2.2
+torch==2.8.0+cu126
+pickleshare==0.7.5
+seaborn==0.13.2
+matplotlib==3.10.0
+bokeh==3.7.3
+statsmodels==0.14.5
+wordcloud==1.9.4
+pillow==11.3.0
+scikit-learn==1.6.1
+keras==3.10.0
+explainerdashboard==0.5.1
