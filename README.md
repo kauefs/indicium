@@ -46,7 +46,7 @@ Programa Lighthouse de Formação em Dados e IA para profissionais em início ou
    - Filme a se recomendar a uma pessoa desconhecida
    - Principais fatores relacionados à alta expectativa de faturamento de um filme
    - Insights da columa *Overview* e possibilidade de inferir o gênero do filme a partir dessa coluna
-3. Modelagem de Nota do IMDb
+3. Modelagem de Nota do IMDb: variáveis e transformações, problema de classificação ou de regressão, melhor modelo, prós e contras e razão da escolha da medida de performance do modelo.
 4. Previsão  de Nota do IMDb para o seguinte filme:
 
         {'Series_Title':'The Shawshank Redemption',
