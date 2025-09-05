@@ -10,4 +10,3 @@ wordcloud==1.9.4
 pillow==11.3.0
 scikit-learn==1.6.1
 keras==3.10.0
-explainerdashboard==0.5.1
